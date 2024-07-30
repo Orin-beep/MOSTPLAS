@@ -19,8 +19,10 @@ input_path = './input_fasta/sequence.fasta'
 * Run ```python test.py``` and obtain the prediction results in the folder ```output/prediction.txt```.
 
 ## Optional
-* You can determine the threshold for making host range prediction in the file ```test.py```.
+* You can determine the threshold for making host range prediction in the file ```test.py```. The default setting is 0.4.
 ```Python
 threshold = 0.4
 ```
-* The default setting is 0.4.
+
+## Helps
+* If you have any questions about the usage of MOSTPLAS, please feel free to contact Wei Zou. (Email:[zouw23@mail3.sysu.edu.cn](zouw23@mail3.sysu.edu.cn))
