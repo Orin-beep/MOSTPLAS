@@ -25,4 +25,4 @@ threshold = 0.4
 ```
 
 ## Helps
-* If you have any questions about the usage of MOSTPLAS, please feel free to contact Wei Zou. (Email:[zouw23@mail3.sysu.edu.cn](zouw23@mail3.sysu.edu.cn))
+* If you have any questions about the usage of MOSTPLAS, please feel free to contact Wei Zou. (Email: [zouw23@mail3.sysu.edu.cn](zouw23@mail3.sysu.edu.cn))
