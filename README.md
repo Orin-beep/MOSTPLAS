@@ -7,7 +7,10 @@ A self-correction multi-label learning model for plasmid host range prediction.
 * Biopython  
 
 ## Usage
-* Download or clone this repository ```git clone https://github.com/wzou96/MOSTPLAS```.  
+* Download or clone this repository.
+```Linux
+git clone https://github.com/wzou96/MOSTPLAS
+```  
 * Prepare the fasta file of plasmid sequences and update the file in the folder ```input_fasta/```.
 * Replace the path of the fasta file in the file ```test.py```.
 ```Python
