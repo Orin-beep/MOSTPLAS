@@ -7,3 +7,7 @@ A self-correction multi-label learning model for plasmid host range prediction.
 * Biopython  
 
 ## Usage
+* Download or clone this repository
+```Linux
+git clone https://github.com/wzou96/MOSTPLAS
+``` 
